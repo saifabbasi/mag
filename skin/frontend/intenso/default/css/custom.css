@@ -1,0 +1,11 @@
+
+.breadcrumbs ul li {
+    font-size: 1rem !important;
+    font-weight: bold !important;
+}
+.price-box .old-price, .price-box .special-price, .price-box .minimal-price, .product-shop .minimal-price .price, .product-shop .price-box .price {
+    font-size: 1.4rem;
+}
+ .minimal-price .price, .price-box .price {
+    color: #FF0000;
+}
